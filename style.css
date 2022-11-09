@@ -1,0 +1,58 @@
+body {
+    background-color:aliceblue;
+}
+
+.title {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family: 'Dancing Script', cursive, serif;
+}
+
+table h2 {
+    color:cornflowerblue;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.thead-row th {
+    line-height: 3;
+    color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+    font-style: oblique;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+.row-even {
+    background-color: aqua;
+}
+
+.name {
+    text-align: center;
+    font-style: italic;
+    font-weight:400;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 16px 0;
+}
+
+.code {
+    font-family: monospace;
+    background-color: cornsilk;
+    word-spacing: 5px;
+}
+
+.more-info {
+    font-size: larger;
+    background-color: bisque;
+    line-height: 1.8;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
